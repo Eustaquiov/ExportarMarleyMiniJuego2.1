@@ -46,7 +46,7 @@
 		// Internal version number for the Android Application. If you release new
 		// version of your game (including minor and patch version), increment this
 		// value!
-		"versionNumber": 2.1,
+		"versionNumber": 4,
 		// Android package name. See https://developer.android.com/studio/build/application-id
 		// for more information!
 		"packageName": "org.love2d.android.nogame",
