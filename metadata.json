@@ -1,27 +1,27 @@
 {
 	// The name of the game
-	"name": "Marley MiniJuego",
+	"name": "Doble rendija simulator",
 	// The game version
 	// Please specify at least correct version numbers. Some platforms are picky
 	// of the version string specified!
-	"version": "2.1",
+	"version": "1.0",
 	// The game author(s)
 	"author": "YoMerengues",
 	// The game description
-	"description": "Marley MiniJuego actualizado y parcheado.",
+	"description": "Simulador del experimento del mismo nombre.",
 
 	// Windows-specific settings. If this is set to null and Windows workflow is
 	// enabled, then the workflow will error!
 	"windows": {
 		// Windows-specific game icon. If this is null, then no attempt is made to
 		// change the icon.
-		"icon": "super_toast_8x.png",
+		"icon": "olam.png",
 		// Should it fuse with lovec.exe instead of love.exe? lovec.exe always have
 		// console window associated with it regardless of t.console setting in
 		// conf.lua
 		"lovec": false,
 		// Resulting executable name.
-		"exeName": "game.exe",
+		"exeName": "doblerendijasimulator.exe",
 		// Extra files to copy to the game. If this is null, then no attempt is made
 		// to copy extra files.
 		// CAVEAT: Paths are relative to repository and path separator is backslash!
