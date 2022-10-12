@@ -21,7 +21,7 @@
 		// conf.lua
 		"lovec": false,
 		// Resulting executable name.
-		"exeName": "doblerendijasimulator.exe",
+		"exeName": "doblerendija.exe",
 		// Extra files to copy to the game. If this is null, then no attempt is made
 		// to copy extra files.
 		// CAVEAT: Paths are relative to repository and path separator is backslash!
